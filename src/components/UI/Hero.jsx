@@ -1,5 +1,5 @@
 import React from 'react';
-import heroImg from '../../assets/image/heroImg.png';
+import heroImg from '../../assets/images/heroImg.png';
 import CountUp from 'react-countup';
 import TypingEffect from 'react-typing-effect';
 
